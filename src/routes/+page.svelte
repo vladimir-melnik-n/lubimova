@@ -13,7 +13,7 @@
                     </h1>
                 </div>
                 <h2 class="subtitle">
-                   Это сайт обо мне и не только
+                   Это сайт обо мне
                 </h2>
                 <div style="color:black" class="scroll-button animate-scroll" tabindex="0">
                     <a href="/about">Подробнее</a><div class="arrow">→</div>
